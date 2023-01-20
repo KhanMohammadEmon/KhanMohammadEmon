@@ -38,7 +38,7 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanmohammademon&show_icons=true&theme=vue-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHANMOHAMMADEMON&show_icons=true&theme=radical)
 
 </p>
 
