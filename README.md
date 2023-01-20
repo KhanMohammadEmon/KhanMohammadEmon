@@ -38,9 +38,9 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHANMOHAMMADEMON&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHANMOHAMMADEMON&show_icons=true&theme=cobalt)
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHANMOHAMMADEMON&layout=compact)](https://github.com/KHANMOHAMMADEMONa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHANMOHAMMADEMON&layout=compact)]
 
