@@ -42,5 +42,5 @@
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanmohammademon&langs_count=8&theme=vue-dark)](https://github.com/khanmohammademon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHANMOHAMMADEMON&layout=compact)](https://github.com/KHANMOHAMMADEMONa/github-readme-stats)
 
