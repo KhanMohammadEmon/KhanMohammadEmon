@@ -16,8 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/emon-201394/" target="blank"><img align="center" src="https://github.com/EMONEK/EMONEK/blob/main/linkedin.png" alt="https://www.linkedin.com/in/emon-201394/" height="40" width="40" /></a>
-<a href="https://www.facebook.com/ek201394" target="blank"><img align="center" src="https://github.com/EMONEK/EMONEK/blob/main/facebook.png" alt="https://www.facebook.com/ek201394" height="40" width="40" /></a>
+<a href="https://khanmohammademon.github.io/newWebsite/">Click Here</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
