@@ -60,7 +60,7 @@ Computer Science and Engineering graduate from United International University. 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHANMOHAMMADEMON&layout=compact&theme=cobalt" />
 </div>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 ## 🏆 Experience
 
