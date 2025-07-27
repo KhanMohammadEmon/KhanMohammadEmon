@@ -10,10 +10,6 @@
   <a href="https://khanmohammademon.github.io/newWebsite/images/Emon's_CV.pdf"><img src="https://img.shields.io/badge/Resume-Download%20CV-red?style=for-the-badge&logo=adobe-acrobat-reader"></a>
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/emonek/count.svg" alt="Visitor Count" />
-</div>
-
 ## 🎓 About Me
 
 Computer Science and Engineering graduate from United International University. My undergraduate thesis focused on medical image analysis using deep learning models, which strengthened my understanding of Machine Learning and Digital Image Processing. My research interests include Machine Learning, Data Mining, and Deep Learning.
@@ -22,11 +18,6 @@ Computer Science and Engineering graduate from United International University. 
 - 🌱 Currently learning **React and FastAPI**
 - 📚 Published researcher in the field of deep learning for medical imaging
 - 💼 Experience as a Grader at United International University
-
-## 📝 Recent Publication
-
-**[ENRRN-AU-Net: A Hybrid Deep Learning Model to Classify and Segment Histopathology Images of Breast Cancer](https://ieeexplore.ieee.org/abstract/document/10499623/)**  
-*2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iACCESS)*
 
 ## 🛠️ Technical Skills
 
@@ -70,6 +61,11 @@ Computer Science and Engineering graduate from United International University. 
   - MATH 1151: Fundamental Calculus
 
 - **Joint General Secretary** at UIU App Forum *(Aug 2022 – Mar 2023)*
+
+## 📝 Publication
+
+**[ENRRN-AU-Net: A Hybrid Deep Learning Model to Classify and Segment Histopathology Images of Breast Cancer](https://ieeexplore.ieee.org/abstract/document/10499623/)**  
+*2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iACCESS)*
 
 
 
