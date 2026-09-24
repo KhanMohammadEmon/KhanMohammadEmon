@@ -47,8 +47,8 @@ Computer Science and Engineering graduate from United International University. 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KHANMOHAMMADEMON&show_icons=true&theme=cobalt" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHANMOHAMMADEMON&layout=compact&theme=cobalt" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KHANMOHAMMADEMON&show_icons=true&theme=cobalt" /> -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHANMOHAMMADEMON&layout=compact&theme=cobalt" /> -->
 </div>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
