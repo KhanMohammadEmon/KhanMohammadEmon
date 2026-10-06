@@ -1,8 +1,9 @@
-# <div align="center">Hi there! I'm Khan Mohammad Emon 👋</div>
+# <div align="center">Hi 👋</div>
 
-<p align="center"> 
-  <img src="https://github.com/EMONEK/EMONEK/blob/main/mOZpPGs.gif" alt="Hello" width="500px">
-</p>
+<div>
+<img src="Emon.svg" width="800" height="400">
+</div>
+
 
 <div align="center">
   <a href="mailto:kemon201394@gmail.com"><img src="https://img.shields.io/badge/Email-kemon201394%40gmail.com-blue?style=for-the-badge&logo=gmail"></a>
