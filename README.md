@@ -1,72 +1,84 @@
-# <div align="center">Hi 👋</div>
-
-<div>
-<img src="Emon.svg" width="800" height="400">
-</div>
-
-
 <div align="center">
-  <a href="mailto:kemon201394@gmail.com"><img src="https://img.shields.io/badge/Email-kemon201394%40gmail.com-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://khanmohammademon.github.io/newWebsite/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-green?style=for-the-badge&logo=safari"></a>
-  <a href="https://khanmohammademon.github.io/newWebsite/images/Emon's_CV.pdf"><img src="https://img.shields.io/badge/Resume-Download%20CV-red?style=for-the-badge&logo=adobe-acrobat-reader"></a>
+
+# Khan Mohammad Emon
+
+**Junior Software Engineer at Alice Labs** · Full-Stack Developer
+
+<a href="mailto:kemon201394@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kemon201394%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://emonkhan.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-emonkhan.netlify.app-2EA44F?style=for-the-badge&logo=netlify&logoColor=white"></a>
+<a href="https://khanmohammademon.github.io/newWebsite/images/Emon's_CV.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-D93F0B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+
+<img src="Emon.svg" alt="ASCII portrait of Khan Mohammad Emon" width="420">
+
 </div>
 
-## 🎓 About Me
+## About
 
-Computer Science and Engineering graduate from United International University. My undergraduate thesis focused on medical image analysis using deep learning models, which strengthened my understanding of Machine Learning and Digital Image Processing. My research interests include Machine Learning, Data Mining, and Deep Learning.
+I'm a software engineer at **Alice Labs**. I build and maintain features on a production AI-agent platform using React, TypeScript and Django, and I track down production issues across the whole stack, from the UI to the database, background jobs and third-party integrations.
 
-- 🔭 Working on enhancing my skills in full-stack development
-- 🌱 Currently learning **React and FastAPI**
-- 📚 Published researcher in the field of deep learning for medical imaging
-- 💼 Experience as a Grader at United International University
+I'm also the first author of a peer-reviewed IEEE paper on deep learning for breast cancer histopathology.
 
-## 🛠️ Technical Skills
+- **Now:** full-stack work on a production AI-agent platform
+- **Strengths:** finding root causes across frontend, backend and data layers
+- **Research interests:** machine learning, deep learning, medical imaging
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Languages-C%20%7C%20C++%20%7C%20Java%20%7C%20Python%20%7C%20PHP%20%7C%20JavaScript-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Web-HTML%20%7C%20CSS%20%7C%20Bootstrap%20%7C%20React-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Database-MySQL-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ML%20Frameworks-Keras%20%7C%20PyTorch-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Tools-Git%20%7C%20GitHub%20%7C%20LaTeX%20%7C%20Jira-gray?style=for-the-badge">
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=js,ts,python,php,java,c,cpp,bash,react,django,fastapi,tailwind,html,css,mysql,postgres,mongodb,pytorch,git,github,postman,latex&perline=11">
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<!--   <a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a> -->
-</p>
+| Area | Tools |
+| --- | --- |
+| **Languages** | JavaScript (ES6+), TypeScript, Python, PHP, Java, C/C++, Bash |
+| **Web & Frameworks** | React, Django, FastAPI, REST APIs, Tailwind CSS, HTML, CSS |
+| **Databases** | PostgreSQL, MySQL, MongoDB, ClickHouse |
+| **Tools** | Git, GitHub, Postman, Kibana, Jira, LaTeX |
+| **AI / ML** | PyTorch, Keras |
+| **Familiar with** | Docker, CI/CD |
 
-## 📊 GitHub Stats
+## Experience
 
-<div align="center">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KHANMOHAMMADEMON&show_icons=true&theme=cobalt" /> -->
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHANMOHAMMADEMON&layout=compact&theme=cobalt" /> -->
-</div>
+### Junior Software Engineer · Alice Labs Pte. Ltd.
+*Aug 2025 – Present*
+- Develop and maintain features on a production **AI-agent platform** using React, TypeScript, Django and REST APIs.
+- Investigate and resolve production issues involving the frontend, backend, databases, asynchronous jobs, webhooks and third-party integrations.
+- Trace client-facing problems to their root cause across frontend and backend layers, and ship reliable fixes.
+- Work with engineering, QA and product teams to deliver and review production changes.
 
-![](./profile-3d-contrib/profile-night-green.svg)
+### Software Engineering Intern · Alice Labs Pte. Ltd.
+*Feb 2025 – Jul 2025*
+- Supported the frontend team on a production project while learning React and FastAPI.
+- Configured and enforced **ESLint** rules across the core product and resolved the resulting conflicts.
+- Worked with a white-label partner to customize client websites.
+- Updated project documentation and Git workflows to make onboarding easier for new developers.
 
-## 🏆 Experience
+### Grader · United International University
+*Nov 2022 – Jan 2024*
+- CSE 3521: Database Management Systems (Fall 2022)
+- IPE 3401: Industrial and Operational Management (Fall 2023)
+- MATH 1151: Fundamental Calculus (Fall 2023)
 
-- **Grader** at United International University *(Nov 2022 – Jan 2024)*
-  - CSE 3521: Database Management Systems
-  - IPE 3401: Industrial and Operational Management
-  - MATH 1151: Fundamental Calculus
+## Publication
 
-- **Joint General Secretary** at UIU App Forum *(Aug 2022 – Mar 2023)*
+**ENRNN-AU-Net: A Hybrid Deep Learning Model to Classify and Segment Histopathology Images of Breast Cancer**<br>
+**K. M. Emon**, G. Kibria, Md. Shakhan, B. J. F. Hafiz, R. Azim<br>
+*2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)*, IEEE<br>
+[Paper](https://ieeexplore.ieee.org/abstract/document/10499623/) · [Code](https://github.com/KhanMohammadEmon/ENRNN-AU-Net)
 
-## 📝 Publication
+## Achievements
 
-**[ENRRN-AU-Net: A Hybrid Deep Learning Model to Classify and Segment Histopathology Images of Breast Cancer](https://ieeexplore.ieee.org/abstract/document/10499623/)**  
-*2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iACCESS)*
+- 🏆 **ICPC 2022 Asia Dhaka Regional**: competed with Team Songshoptok
+- 🎓 **Academic scholarships** at UIU: 50% once, 25% twice
 
+## Contributions
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
+  <img alt="3D GitHub contribution graph" src="./profile-3d-contrib/profile-night-green.svg">
+</picture>
 
+---
+
+<p align="center"><i>Open to collaborating on web products and applied ML. Feel free to reach out.</i></p>
