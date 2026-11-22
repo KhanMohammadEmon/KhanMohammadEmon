@@ -4,81 +4,68 @@
 
 **Junior Software Engineer at Alice Labs** · Full-Stack Developer
 
-<a href="mailto:kemon201394@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kemon201394%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://emonkhan.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-emonkhan.netlify.app-2EA44F?style=for-the-badge&logo=netlify&logoColor=white"></a>
-<a href="https://khanmohammademon.github.io/newWebsite/images/Emon's_CV.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-D93F0B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
-
-<img src="Emon.svg" alt="ASCII portrait of Khan Mohammad Emon" width="420">
+<a href="mailto:kemon201394@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3fb950"></a>
+<a href="https://emonkhan.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=netlify&logoColor=3fb950"></a>
+<a href="https://khanmohammademon.github.io/newWebsite/images/Emon's_CV.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=3fb950"></a>
+<a href="https://ieeexplore.ieee.org/abstract/document/10499623/"><img alt="IEEE paper" src="https://img.shields.io/badge/IEEE_Paper-0d1117?style=for-the-badge&logo=ieee&logoColor=3fb950"></a>
 
 </div>
 
-## About
+<img align="right" src="Emon.svg" alt="ASCII portrait of Khan Mohammad Emon" width="280">
 
-I'm a software engineer at **Alice Labs**. I build and maintain features on a production AI-agent platform using React, TypeScript and Django, and I track down production issues across the whole stack, from the UI to the database, background jobs and third-party integrations.
+### 👨‍💻 About
 
-I'm also the first author of a peer-reviewed IEEE paper on deep learning for breast cancer histopathology.
+I build and maintain features on a production **AI-agent platform** at Alice Labs using React, TypeScript and Django, and I track down production issues across the stack, from the UI to databases, background jobs, webhooks and third-party integrations.
 
-- **Now:** full-stack work on a production AI-agent platform
-- **Strengths:** finding root causes across frontend, backend and data layers
-- **Research interests:** machine learning, deep learning, medical imaging
+- 🔧 **Now:** full-stack work on a production AI-agent platform
+- 🔍 **Strength:** finding root causes across frontend, backend and data layers
+- 🧠 **Research:** deep learning for medical imaging ([IEEE, 2024](https://ieeexplore.ieee.org/abstract/document/10499623/))
+- 🏆 **Competitive programming:** ICPC 2022 Asia Dhaka Regional
 
-## Tech Stack
+<br clear="right">
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img alt="Tech stack" src="https://skillicons.dev/icons?i=js,ts,python,php,java,c,cpp,bash,react,django,fastapi,tailwind,html,css,mysql,postgres,mongodb,pytorch,git,github,postman,latex&perline=11">
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,js,python,react,django,fastapi,tailwind,postgres,mysql,mongodb,pytorch,git,github,postman,bash,php,java,cpp&theme=dark&perline=9">
 </p>
+<p align="center"><sub>Also: ClickHouse · Kibana · Keras · Jira · LaTeX · Docker &amp; CI/CD (familiar)</sub></p>
 
-| Area | Tools |
-| --- | --- |
-| **Languages** | JavaScript (ES6+), TypeScript, Python, PHP, Java, C/C++, Bash |
-| **Web & Frameworks** | React, Django, FastAPI, REST APIs, Tailwind CSS, HTML, CSS |
-| **Databases** | PostgreSQL, MySQL, MongoDB, ClickHouse |
-| **Tools** | Git, GitHub, Postman, Kibana, Jira, LaTeX |
-| **AI / ML** | PyTorch, Keras |
-| **Familiar with** | Docker, CI/CD |
+### 💼 Experience
 
-## Experience
+**Junior Software Engineer** · Alice Labs Pte. Ltd. · <sub>Aug 2025 – Present</sub>
+- Develop and maintain features on a production AI-agent platform using React, TypeScript, Django and REST APIs.
+- Resolve production issues spanning the frontend, backend, databases, async jobs, webhooks and third-party integrations.
+- Trace client-facing problems to their root cause and ship reliable fixes, working with engineering, QA and product.
 
-### Junior Software Engineer · Alice Labs Pte. Ltd.
-*Aug 2025 – Present*
-- Develop and maintain features on a production **AI-agent platform** using React, TypeScript, Django and REST APIs.
-- Investigate and resolve production issues involving the frontend, backend, databases, asynchronous jobs, webhooks and third-party integrations.
-- Trace client-facing problems to their root cause across frontend and backend layers, and ship reliable fixes.
-- Work with engineering, QA and product teams to deliver and review production changes.
+<details>
+<summary><b>Software Engineering Intern</b> · Alice Labs Pte. Ltd. · <sub>Feb 2025 – Jul 2025</sub></summary>
 
-### Software Engineering Intern · Alice Labs Pte. Ltd.
-*Feb 2025 – Jul 2025*
 - Supported the frontend team on a production project while learning React and FastAPI.
 - Configured and enforced **ESLint** rules across the core product and resolved the resulting conflicts.
 - Worked with a white-label partner to customize client websites.
 - Updated project documentation and Git workflows to make onboarding easier for new developers.
 
-### Grader · United International University
-*Nov 2022 – Jan 2024*
-- CSE 3521: Database Management Systems (Fall 2022)
-- IPE 3401: Industrial and Operational Management (Fall 2023)
-- MATH 1151: Fundamental Calculus (Fall 2023)
+</details>
 
-## Publication
+<details>
+<summary><b>Grader</b> · United International University · <sub>Nov 2022 – Jan 2024</sub></summary>
+
+- CSE 3521: Database Management Systems
+- IPE 3401: Industrial and Operational Management
+- MATH 1151: Fundamental Calculus
+
+</details>
+
+### 📄 Publication
 
 **ENRNN-AU-Net: A Hybrid Deep Learning Model to Classify and Segment Histopathology Images of Breast Cancer**<br>
-**K. M. Emon**, G. Kibria, Md. Shakhan, B. J. F. Hafiz, R. Azim<br>
-*2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)*, IEEE<br>
-[Paper](https://ieeexplore.ieee.org/abstract/document/10499623/) · [Code](https://github.com/KhanMohammadEmon/ENRNN-AU-Net)
+<sub>**K. M. Emon**, G. Kibria, Md. Shakhan, B. J. F. Hafiz, R. Azim · iCACCESS 2024, IEEE · [Paper](https://ieeexplore.ieee.org/abstract/document/10499623/) · [Code](https://github.com/KhanMohammadEmon/ENRNN-AU-Net)</sub>
 
-## Achievements
-
-- 🏆 **ICPC 2022 Asia Dhaka Regional**: competed with Team Songshoptok
-- 🎓 **Academic scholarships** at UIU: 50% once, 25% twice
-
-## Contributions
+### 📈 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
   <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
   <img alt="3D GitHub contribution graph" src="./profile-3d-contrib/profile-night-green.svg">
 </picture>
-
----
-
-<p align="center"><i>Open to collaborating on web products and applied ML. Feel free to reach out.</i></p>
